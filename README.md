@@ -89,11 +89,10 @@ while (1)
 
 ## Output screen shots of proteus  :
 ## When LED is Off
-![pg exp3 outt 1](https://user-images.githubusercontent.com/121166390/235045133-9bd43803-f3b4-4c28-93be-da2d393ee5a8.png)
+![pg exp3 outt 1](https://user-images.githubusercontent.com/121166390/235105315-a2f2dc29-c2a1-41a9-bfe6-5e58cd94257f.png)
 
 ## When LED is On
-![pg exp3 outt 2](https://user-images.githubusercontent.com/121166390/235045201-979bf3ba-32b2-4fce-9b8b-b4ef347261cc.png)
-
+![pg exp3 outt 2](https://user-images.githubusercontent.com/121166390/235105419-58d405c8-175f-43f4-aa08-bbb84cc0b0d8.png)
 
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
